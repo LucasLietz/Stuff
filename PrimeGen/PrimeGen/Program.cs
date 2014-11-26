@@ -6,7 +6,7 @@ namespace PrimeGen
     {
         private static void Main()
         {
-            Console.WriteLine("PrimGen - Geben Sie ein, bis wohin Sie Primzahlen haben möchten: ");
+            Console.WriteLine("Geben Sie die Zahl an, bis wohin Primzahlen ermittelt werden soll. \nZahl eingeben: ");
             var primLimit = Convert.ToInt32(Console.ReadLine());
 
             //2 ist die einzig gerade Primzahl ==> kann immer angegeben werden.

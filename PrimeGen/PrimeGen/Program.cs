@@ -14,6 +14,12 @@ namespace PrimeGen
 
             //wir können unser Programm daher bei 3 starten
             //aus performace zwecken nehmen wir direkt nur alle ungeraden zahlen
+            GetPrimesWithin(primLimit);
+            Console.ReadLine();
+        }
+
+        private static void GetPrimesWithin(int primLimit)
+        {
             for (var odd = 3; odd <= primLimit; odd += 2)
             {
                 var isPrime = true;
@@ -23,7 +29,7 @@ namespace PrimeGen
                 for (var z = 2; z <= Math.Sqrt(odd); z++)
                 {
                     //prüfung auf rest 0, also ohne rest, was automatisch anzeigt, ob die zahl teiler hat.
-                    if (odd % z == 0)
+                    if (odd%z == 0)
                     {
                         isPrime = false;
                     }
@@ -33,7 +39,6 @@ namespace PrimeGen
                     Console.WriteLine(odd);
                 }
             }
-            Console.ReadLine();
         }
     }
 }

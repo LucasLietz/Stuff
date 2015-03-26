@@ -4,3 +4,9 @@ c:\users\lucas\documents\visual studio 2013\Projects\PrimeGen\PrimeGen\bin\Debug
 c:\users\lucas\documents\visual studio 2013\Projects\PrimeGen\PrimeGen\obj\Debug\PrimeGen.csprojResolveAssemblyReference.cache
 c:\users\lucas\documents\visual studio 2013\Projects\PrimeGen\PrimeGen\obj\Debug\PrimeGen.exe
 c:\users\lucas\documents\visual studio 2013\Projects\PrimeGen\PrimeGen\obj\Debug\PrimeGen.pdb
+C:\Users\Lucas\Documents\Repos\Dojos\Prime\PrimeGen\PrimeGen\bin\Debug\PrimeGen.exe.config
+C:\Users\Lucas\Documents\Repos\Dojos\Prime\PrimeGen\PrimeGen\obj\Debug\PrimeGen.exe
+C:\Users\Lucas\Documents\Repos\Dojos\Prime\PrimeGen\PrimeGen\obj\Debug\PrimeGen.pdb
+C:\Users\Lucas\Documents\Repos\Dojos\Prime\PrimeGen\PrimeGen\bin\Debug\PrimeGen.exe
+C:\Users\Lucas\Documents\Repos\Dojos\Prime\PrimeGen\PrimeGen\bin\Debug\PrimeGen.pdb
+C:\Users\Lucas\Documents\Repos\Dojos\Prime\PrimeGen\PrimeGen\obj\Debug\PrimeGen.csprojResolveAssemblyReference.cache
